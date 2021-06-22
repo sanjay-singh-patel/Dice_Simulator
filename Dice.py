@@ -13,6 +13,9 @@ class Dice:
         return self.value
 
 
+#object declaration and driving code
+
+
 my_dice = Dice()
 while 1:
     print("press 1 to roll the dice\npress 0 to quit")
